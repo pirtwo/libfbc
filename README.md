@@ -4,7 +4,7 @@ This library offers a canvas facade for linux framebuffer and makes drawing more
 
 ## usage
 
-```
+```cpp
 #include "libfbc/canvas.h"
 
 int main(int argc, char **argv)
